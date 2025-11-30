@@ -1,0 +1,724 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmdeleteleave.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmdeleteleave.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmapproverejectleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmapproverejectleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmapplyleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmapplyleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|c:\\users\\aseniya thejan\\source\\repos\\windowsformsapp13\\windowsformsapp13\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmadmindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmadmindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmremainingleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmremainingleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmremainingleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmremainingleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmregisteremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmregisteremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmmanageleavetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmmanageleavetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmleavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmleavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmgeneratereports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmgeneratereports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmemployeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmemployeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmdeleteleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmdeleteleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmapproverejectleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmapproverejectleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmapplyleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmapplyleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmemployeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmemployeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmregisteremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmregisteremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmmanageleavetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmmanageleavetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmleavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmleavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmgeneratereports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmgeneratereports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmdeleteleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmdeleteleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmemployeelogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmemployeelogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmemployeedashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmemployeedashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmapplyleave.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmapplyleave.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmleavehistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmleavehistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmremainingleaves.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmremainingleaves.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmadminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmadminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmregisteremployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmregisteremployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmmanageleavetypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmmanageleavetypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmapproverejectleaves.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmapproverejectleaves.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmgeneratereports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmgeneratereports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\frmstartup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\frmstartup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\testdata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\testdata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\quick_start.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\quick_start.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\project_summary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\project_summary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\windowsformsapp13\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|",
+      "RelativeMoniker": "D:0:0:{561E2EB5-1B69-40BE-AF35-951A3C802916}|WindowsFormsApp13\\WindowsFormsApp13.csproj|solutionrelative:windowsformsapp13\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmAdminLogin.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminLogin.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmAdminLogin.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:05:22.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmAdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminDashboard.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmAdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:29:27.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmApplyLeave.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApplyLeave.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmApplyLeave.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApplyLeave.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmApplyLeave.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:03:30.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmApproveRejectLeaves.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApproveRejectLeaves.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmApproveRejectLeaves.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApproveRejectLeaves.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmApproveRejectLeaves.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:07:47.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDeleteLeave.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmDeleteLeave.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmDeleteLeave.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmDeleteLeave.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmDeleteLeave.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:04:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEmployeeDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmEmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeDashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmEmployeeDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:02:52.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmAdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminDashboard.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmAdminDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:06:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmLeaveHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmLeaveHistory.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmLeaveHistory.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmLeaveHistory.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmLeaveHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:30:32.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRemainingLeaves.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRemainingLeaves.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmRemainingLeaves.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRemainingLeaves.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmRemainingLeaves.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:05:00.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmRemainingLeaves.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRemainingLeaves.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmRemainingLeaves.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRemainingLeaves.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmRemainingLeaves.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:30:53.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmRegisterEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRegisterEmployee.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmRegisterEmployee.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRegisterEmployee.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmRegisterEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:30:47.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmManageLeaveTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmManageLeaveTypes.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmManageLeaveTypes.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmManageLeaveTypes.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmManageLeaveTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:30:39.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmGenerateReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmGenerateReports.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmGenerateReports.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmGenerateReports.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmGenerateReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:30:22.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmEmployeeLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmEmployeeLogin.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeLogin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmEmployeeLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:30:15.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmEmployeeDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmEmployeeDashboard.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeDashboard.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmEmployeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:30:06.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmDeleteLeave.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmDeleteLeave.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmDeleteLeave.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmDeleteLeave.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmDeleteLeave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:29:59.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmApproveRejectLeaves.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApproveRejectLeaves.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmApproveRejectLeaves.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApproveRejectLeaves.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmApproveRejectLeaves.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:29:53.157Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmApplyLeave.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApplyLeave.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmApplyLeave.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApplyLeave.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmApplyLeave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:29:43.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmAdminLogin.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminLogin.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmAdminLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T16:29:37.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmStartup.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmStartup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmStartup.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmStartup.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmStartup.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:08:48.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmEmployeeLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmEmployeeLogin.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeLogin.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmEmployeeLogin.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAWwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:02:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmRegisterEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRegisterEmployee.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmRegisterEmployee.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRegisterEmployee.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmRegisterEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:06:28.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmManageLeaveTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmManageLeaveTypes.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmManageLeaveTypes.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmManageLeaveTypes.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmManageLeaveTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:07:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmLeaveHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmLeaveHistory.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmLeaveHistory.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmLeaveHistory.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmLeaveHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:04:09.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmGenerateReports.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmGenerateReports.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmGenerateReports.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmGenerateReports.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmGenerateReports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:08:22.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmDeleteLeave.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmDeleteLeave.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmDeleteLeave.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmDeleteLeave.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmDeleteLeave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:04:36.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\DbHelper.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\DbHelper.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:02:10.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TestData.sql",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\TestData.sql",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\TestData.sql",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\TestData.sql",
+              "RelativeToolTip": "WindowsFormsApp13\\TestData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-27T18:10:56.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PROJECT_SUMMARY.md",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\PROJECT_SUMMARY.md",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\PROJECT_SUMMARY.md",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\PROJECT_SUMMARY.md",
+              "RelativeToolTip": "WindowsFormsApp13\\PROJECT_SUMMARY.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-27T18:13:04.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "INDEX.md",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\INDEX.md",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\INDEX.md",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\INDEX.md",
+              "RelativeToolTip": "WindowsFormsApp13\\INDEX.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-27T18:14:19.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QUICK_START.md",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\QUICK_START.md",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\QUICK_START.md",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\QUICK_START.md",
+              "RelativeToolTip": "WindowsFormsApp13\\QUICK_START.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-27T18:11:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\README.md",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\README.md",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\README.md",
+              "RelativeToolTip": "WindowsFormsApp13\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-27T18:10:20.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\Program.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAABRwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:09:11.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmStartup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmStartup.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmStartup.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmStartup.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmStartup.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:09:04.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmGenerateReports.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmGenerateReports.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmGenerateReports.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmGenerateReports.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmGenerateReports.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:08:41.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmApproveRejectLeaves.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApproveRejectLeaves.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmApproveRejectLeaves.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApproveRejectLeaves.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmApproveRejectLeaves.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:08:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmManageLeaveTypes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmManageLeaveTypes.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmManageLeaveTypes.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmManageLeaveTypes.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmManageLeaveTypes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:07:28.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmRegisterEmployee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRegisterEmployee.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmRegisterEmployee.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRegisterEmployee.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmRegisterEmployee.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:06:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmAdminLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminLogin.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmAdminLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmAdminLogin.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmAdminLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:05:39.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmRemainingLeaves.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRemainingLeaves.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmRemainingLeaves.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmRemainingLeaves.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmRemainingLeaves.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:05:10.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmLeaveHistory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmLeaveHistory.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmLeaveHistory.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmLeaveHistory.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmLeaveHistory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:04:21.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmApplyLeave.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApplyLeave.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmApplyLeave.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmApplyLeave.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmApplyLeave.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:03:55.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmEmployeeDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmEmployeeDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeDashboard.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmEmployeeDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:03:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmEmployeeLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeLogin.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp13\\FrmEmployeeLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Aseniya Thejan\\source\\repos\\WindowsFormsApp13\\WindowsFormsApp13\\FrmEmployeeLogin.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp13\\FrmEmployeeLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T18:02:43.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
